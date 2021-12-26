@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "displayText": "What is the capital of Bangladesh?",
+    "options": [
+      {
+        "id": 101,
+        "displayText": "Chittagong",
+        "value": "chittagong"
+      },
+      {
+        "id": 102,
+        "displayText": "Dhaka",
+        "value": "dhaka"
+      },
+      {
+        "id": 103,
+        "displayText": "Rajshahi",
+        "value": "rajshahi"
+      },
+      {
+        "id": 104,
+        "displayText": "Barishal",
+        "value": "barishal"
+      }
+    ],
+    "answer": {
+      "id": 102,
+      "displayText": "Dhaka",
+      "value": "dhaka"
+    }
+  },
+  {
+    "id": 2,
+    "displayText": "In which language Node.JS is written?",
+    "options": [
+      {
+        "id": 105,
+        "displayText": "C++",
+        "value": "c++"
+      },
+      {
+        "id": 106,
+        "displayText": "Java",
+        "value": "java"
+      },
+      {
+        "id": 107,
+        "displayText": "Javascript",
+        "value": "javascript"
+      },
+      {
+        "id": 108,
+        "displayText": "C",
+        "value": "c"
+      }
+    ],
+    "answer": {
+      "id": 107,
+      "displayText": "Javascript",
+      "value": "javascript"
+    }
+  },
+  {
+    "id": 3,
+    "displayText": "In which language V8 engine is written?",
+    "options": [
+      {
+        "id": 109,
+        "displayText": "C++",
+        "value": "c++"
+      },
+      {
+        "id": 110,
+        "displayText": "Java",
+        "value": "java"
+      },
+      {
+        "id": 111,
+        "displayText": "Javascript",
+        "value": "javascript"
+      },
+      {
+        "id": 112,
+        "displayText": "C",
+        "value": "c"
+      }
+    ],
+    "answer": {
+      "id": 109,
+      "displayText": "C++",
+      "value": "c++"
+    }
+  },
+  {
+    "id": 4,
+    "displayText":
+      "Which is the most popular Javascript library in current time?",
+    "options": [
+      {
+        "id": 113,
+        "displayText": "Vue",
+        "value": "vue"
+      },
+      {
+        "id": 114,
+        "displayText": "Svelte",
+        "value": "svelte"
+      },
+      {
+        "id": 115,
+        "displayText": "Express",
+        "value": "express"
+      },
+      {
+        "id": 116,
+        "displayText": "React",
+        "value": "react"
+      }
+    ],
+    "answer": {
+      "id": 116,
+      "displayText": "React",
+      "value": "react"
+    }
+  }
+]
